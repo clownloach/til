@@ -1,6 +1,7 @@
 # Plugins
 
 * [Github for Unity](#github-for-unity)
+* [Unity Remote](#unity-remote)
 
 ## Github for Unity
 
