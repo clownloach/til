@@ -7,7 +7,7 @@
 
 ### 導入
 
-Asset StoreからGithub for Unityを[download]し、[import]をクリック。[Window] - [Github]からウィンドウを開けるようになります。[Window] - [Github Command Line]からターミナルを開いて実行することもできます。[initialize a git repository for this project]をクリックするとgit管理が開始されInitial commitが自動で追加されます。Initial commitには.gitignoreファイルも含まれます。
+Asset StoreからGithub for Unityをdownloadし、importをクリックしてください。Window -> Githubからウィンドウを開けるようになります。Window -> Github Command Lineからターミナルを開いて実行することもできます。initialize a git repository for this projectをクリックするとgit管理が開始されInitial commitが自動で追加されます。Initial commitには.gitignoreファイルも含まれます。
 
 .gitignore
 ```ini
@@ -63,8 +63,8 @@ crashlytics-build.properties
 
 ### リポジトリの公開
 
-[Sign in]をクリックしGithubにログインすると[Publish]が選択できるようになります。リポジトリの設定入力が完了したら[Publish]をクリックしてください。
-プライベートリポジトリを作成する場合は[Make repository private]にチェックを入れてください。
+Sign inをクリックしGithubにログインするとPublishが選択できるようになります。リポジトリの設定入力が完了したらPublishをクリックしてください。
+プライベートリポジトリを作成する場合はMake repository privateにチェックを入れてください。
 
 ## Unity Remote
 
@@ -78,7 +78,7 @@ Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUn
 
 ### Unityの設定
 
-1. [Edit] - [Project Settings] - [Editor]のUnity Remoteの項目を以下のように設定します。
+1. Edit -> Project Settings -> EditorのUnity Remoteの項目を以下のように設定します。
 
 * Device: Any Android Device
 * Compression: JPEG
