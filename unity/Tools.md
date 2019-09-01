@@ -79,7 +79,6 @@ Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUn
 ### Unityの設定
 
 1. Unity -> Preferences -> External ToolsのAndroid SDK Tools Installed with Unity (recommended)のチェックを外し、SDKのpathを手動で設定してください。
-
 2. Edit -> Project Settings -> EditorのUnity Remoteの項目を以下のように設定します。
 
 * Device: Any Android Device
