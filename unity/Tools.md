@@ -1,7 +1,7 @@
 # Tools
 
 * [Github for Unity](#github-for-unity)
-* [Unity Remote](#unity-remote-te)
+* [Unity Remote](#unity-remote)
 
 ## Github for Unity
 
@@ -85,5 +85,7 @@ Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUn
 * Compression: JPEG
 * Resolution: Downsize
 * Joystick Source: Remote
+
+3. Edit -> Playで端末でゲームを操作できるようになります。
 
 
