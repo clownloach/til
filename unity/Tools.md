@@ -70,9 +70,17 @@ Sign inをクリックしGithubにログインするとPublishが選択できる
 
 Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUnity Editorへの入力を提供します。
 
-# Androidの設定
+### Androidの設定
 
 1. 設定 -> 開発者向けオプション -> USBデバッグをONにします。
-2. Google Play ストアからUnity Remote 5をインストールします。
-https://play.google.com/store/apps/details?id=com.unity3d.genericremote&hl=ja
+2. Google Play ストアからUnity Remote 5をインストールします。(https://play.google.com/store/apps/details?id=com.unity3d.genericremote&hl=ja)
 3. テスト端末をPCに接続してUnity Remoteを起動します。
+
+### Unityの設定
+
+1. Project Settings -> EditorのUnity Remoteの項目を以下のように設定します。
+
+|Device|Any Android Device|
+|Compression|JPEG|
+|Resolution|Downsize|
+|Joystick Source|Remote|
