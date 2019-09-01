@@ -7,7 +7,7 @@
 
 ### 導入
 
-Asset StoreからGithub for Unityをdownloadし、importをクリックしてください。Window -> Githubからウィンドウを開けるようになります。Window -> Github Command Lineからターミナルを開いて実行することもできます。initialize a git repository for this projectをクリックするとgit管理が開始されInitial commitが自動で追加されます。Initial commitには.gitignoreファイルも含まれます。
+Asset StoreからGithub for Unityをdownloadし、importをクリック。importが完了するとWindow -> Githubからウィンドウを開けるようになる。Window -> Github Command Lineからターミナルを開いて実行することもできる。initialize a git repository for this projectをクリックするとgit管理が開始されInitial commitが自動で追加される。Initial commitには.gitignoreファイルも含まれる。
 
 .gitignore
 ```ini
@@ -63,29 +63,29 @@ crashlytics-build.properties
 
 ### リポジトリの公開
 
-Sign inをクリックしGithubにログインするとPublishが選択できるようになります。リポジトリの設定入力が完了したらPublishをクリックしてください。
-プライベートリポジトリを作成する場合はMake repository privateにチェックを入れてください。
+Sign inをクリックしGithubにログインするとPublishが選択できるようになる。リポジトリの設定入力が完了したらPublishをクリック。
+プライベートリポジトリを作成する場合はMake repository privateにチェックを入れる。
 
 ## Unity Remote
 
-Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUnity Editorへの入力を提供します。
+Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUnity Editorへの入力を提供する。
 
 ### Androidの設定
 
-1. 設定 -> 開発者向けオプション -> USBデバッグをONにします。
-2. Google Play ストアからUnity Remote 5をインストールします。(https://play.google.com/store/apps/details?id=com.unity3d.genericremote&hl=ja)
-3. テスト端末をPCに接続してUnity Remoteを起動します。
+1. 設定 -> 開発者向けオプション -> USBデバッグをONに設定。
+2. Google Play ストアからUnity Remote 5をインストールする。(https://play.google.com/store/apps/details?id=com.unity3d.genericremote&hl=ja)
+3. テスト端末をPCに接続してUnity Remoteを起動。
 
 ### Unityの設定
 
-1. Unity -> Preferences -> External ToolsのAndroid SDK Tools Installed with Unity (recommended)のチェックを外し、SDKのpathを手動で設定してください。
-2. Edit -> Project Settings -> EditorのUnity Remoteの項目を以下のように設定します。
+1. Unity -> Preferences -> External ToolsのAndroid SDK Tools Installed with Unity (recommended)のチェックを外し、SDKのpathを手動で設定。
+2. Edit -> Project Settings -> EditorのUnity Remoteの項目を以下のように設定。
 
 * Device: Any Android Device
 * Compression: JPEG
 * Resolution: Downsize
 * Joystick Source: Remote
 
-3. Edit -> Playで端末でゲームを操作できるようになります。
+3. Edit -> Playで端末でゲームを操作できるようになる。
 
 
