@@ -60,7 +60,7 @@ sysinfo.txt
 crashlytics-build.properties
 ```
 
-# リポジトリの公開
+### リポジトリの公開
 
 Sign inをクリックしGithubにログインするとPublishが選択できるようになります。リポジトリの設定入力が完了したらPublishをクリックしてください。
 プライベートリポジトリを作成する場合はMake repository privateにチェックを入れてください。
