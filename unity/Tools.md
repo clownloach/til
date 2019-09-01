@@ -80,7 +80,7 @@ Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUn
 
 1. Project Settings -> EditorのUnity Remoteの項目を以下のように設定します。
 
-|item|value|
+||value|
 |:-|:-|
 |Device|Any Android Device|
 |Compression|JPEG|
