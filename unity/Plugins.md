@@ -4,13 +4,13 @@
 
 ## Github for Unity
 
-# 導入
+### 導入
 
 Asset StoreからGithub for Unityをdownloadし、importをクリック。Window -> Githubからウィンドウを開けるようになります。Window -> Github Command Lineからターミナルを開いて実行することもできます。
 initialize a git repository for this projectをクリックするとgit管理が開始されInitial commitが自動で追加されます。Initial commitには.gitignoreファイルも含まれます。
 
 
-```
+```ini
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
