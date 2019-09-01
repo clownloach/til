@@ -1,6 +1,6 @@
 # Plugins
 
-* [Github for Unity](Github for Unity)
+* [Github for Unity](#Github for Unity)
 
 ## Github for Unity
 
