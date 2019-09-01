@@ -1,7 +1,7 @@
-# Plugins
+# Tools
 
 * [Github for Unity](#github-for-unity)
-* [Unity Remote](#unity-remote)
+* [Unity Remote](#unity-remote-te)
 
 ## Github for Unity
 
@@ -65,3 +65,14 @@ crashlytics-build.properties
 
 Sign inをクリックしGithubにログインするとPublishが選択できるようになります。リポジトリの設定入力が完了したらPublishをクリックしてください。
 プライベートリポジトリを作成する場合はMake repository privateにチェックを入れてください。
+
+## Unity Remote
+
+Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUnity Editorへの入力を提供します。
+
+# Androidの設定
+
+1. 設定 -> 開発者向けオプション -> USBデバッグをONにします。
+2. Google Play ストアからUnity Remote 5をインストールします。
+https://play.google.com/store/apps/details?id=com.unity3d.genericremote&hl=ja
+3. テスト端末をPCに接続してUnity Remoteを起動します。
