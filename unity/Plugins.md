@@ -6,9 +6,7 @@
 
 ### 導入
 
-Asset StoreからGithub for Unityをdownloadし、importをクリック。Window -> Githubからウィンドウを開けるようになります。Window -> Github Command Lineからターミナルを開いて実行することもできます。
-
-initialize a git repository for this projectをクリックするとgit管理が開始されInitial commitが自動で追加されます。Initial commitには.gitignoreファイルも含まれます。
+Asset StoreからGithub for Unityをdownloadし、importをクリック。Window -> Githubからウィンドウを開けるようになります。Window -> Github Command Lineからターミナルを開いて実行することもできます。initialize a git repository for this projectをクリックするとgit管理が開始されInitial commitが自動で追加されます。Initial commitには.gitignoreファイルも含まれます。
 
 
 ```ini
@@ -61,3 +59,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 ```
+
+#リポジトリの公開
+
+Sign inをクリックしGithubにログインするとPublishが選択できるようになります。リポジトリの設定入力が完了したらPublishをクリックするとしてください。
+プライベートリポジトリを作成する場合はMake repository privateにチェックを入れてください。
