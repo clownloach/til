@@ -93,7 +93,6 @@ Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUn
 
 BlenderはBlender Foundationが開発した3DCGソフトウェア。3Dモデルの作成、レンダリングやアニメーション、コンポジット機能を備える。Unityはネイティブで.blendファイルをインポートする。この機能はBlender 2.45以降のバージョンで動作する。
 (https://docs.unity3d.com/jp/460/Manual/HOWTO-ImportObjectBlender.html)
-要件を満たしていない場合は以下の手順でBlenderを導入し.blendファイルの.fbxファイルへの変換をおこなう必要がある。
 
 ### 導入
 
@@ -102,6 +101,4 @@ BlenderはBlender Foundationが開発した3DCGソフトウェア。3Dモデル�
 
 ### Blenderで作成した3DモデルをUityで使用する
 
-1. Unityにインポート済みの.blendファイルをダブルクリック。Blenderが起動する。
-2. File -> Export -> FBX(.fbx)を選択。出力先にUnityプロジェクトのAssets以下任意の場所を指定しExport FBXを実行。Unityプロジェクトに.fbxファイルが追加される。
-3. .fbxファイルをHierarchyウィンドウにドラッグ&ドロップ。
+Blender導入済みであれば3DモデルはUnityでインポート時に自動で認識される。導入前にインポートされている場合は再インポート、あるいはFBX(.fbx)形式でExportをおこなう必要がある。
