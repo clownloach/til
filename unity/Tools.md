@@ -2,6 +2,7 @@
 
 * [Github for Unity](#github-for-unity)
 * [Unity Remote](#unity-remote)
+* [Blender](#blender)
 
 ## Github for Unity
 
@@ -97,7 +98,7 @@ BlenderはBlender Foundationが開発した3DCGソフトウェア。3Dモデル�
 1. 公式サイトからBlenderのディスクイメージdownloadしダブルクリック。Blenderがマウントされウィンドウが表示される。(https://blender.jp.uptodown.com/mac)
 2. BlenderフォルダをApplicationフォルダにドラッグ&ドロップ。
 
-### Blenderで作成したモデルをUityで使用する
+### Blenderで作成した3DモデルをUityで使用する
 
 1. Unityにインポート済みの.blendファイルをダブルクリック。Blenderが起動する。
 2. File -> Export -> FBX(.fbx)を選択。出力先にUnityプロジェクトのAssets以下任意の場所を指定しExport FBXを実行。Unityプロジェクトに.fbxファイルが追加される。
