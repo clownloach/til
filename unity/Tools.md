@@ -91,8 +91,7 @@ Unity RemoteはPCとUSB接続されたAndroid・iOSのモバイル端末からUn
 
 ## Blender
 
-BlenderはBlender Foundationが開発した3DCGソフトウェア。3Dモデルの作成、レンダリングやアニメーション、コンポジット機能を備える。Unityはネイティブで.blendファイルをインポートする。この機能はBlender 2.45以降のバージョンで動作する。
-(https://docs.unity3d.com/jp/460/Manual/HOWTO-ImportObjectBlender.html)
+BlenderはBlender Foundationが開発した3DCGソフトウェア。3Dモデルの作成、レンダリングやアニメーション、コンポジット機能を備える。Unityはネイティブで.blendファイルをインポートする。(https://docs.unity3d.com/jp/460/Manual/HOWTO-ImportObjectBlender.html)
 
 ### 導入
 
