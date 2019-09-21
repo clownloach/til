@@ -97,7 +97,7 @@ BlenderはBlender Foundationが開発した3DCGソフトウェア。3Dモデル�
 
 ### 導入
 
-1. 公式サイトからBlenderのディスクイメージdownloadしダブルクリック。Blenderがマウントされウィンドウが表示される。(https://blender.jp.uptodown.com/mac)
+1. 公式サイトからBlenderのディスクイメージをdownloadしダブルクリック。Blenderがマウントされウィンドウが表示される。(https://blender.jp.uptodown.com/mac)
 2. BlenderフォルダをApplicationフォルダにドラッグ&ドロップ。
 
 ### Blenderで作成した3DモデルをUityで使用する
