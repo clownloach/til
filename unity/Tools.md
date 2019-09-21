@@ -100,4 +100,4 @@ BlenderはBlender Foundationが開発した3DCGソフトウェア。3Dモデル�
 
 ### Blenderで作成した3DモデルをUityで使用する
 
-Blender導入済みであれば3DモデルはUnityでインポート時に自動で認識される。導入前にインポートされている場合は再インポート、あるいはFBX(.fbx)形式でExportをおこなう必要がある。
+Blender導入済みであれば3DモデルはUnityでインポート時に自動で認識される。導入前にインポートされている場合は再インポート、あるいはBlender File -> Export -> FBX(.fbx)でFBX形式に変換する必要がある。
