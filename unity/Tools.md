@@ -100,7 +100,10 @@ BlenderはBlender Foundationが開発した3DCGソフトウェア。3Dモデル�
 
 ### Blenderで作成した3DモデルをUityで使用する
 
+Unityはネイティブで.blendファイルをインポートする。Blender 2.45以降で機能する。
+(https://docs.unity3d.com/jp/460/Manual/HOWTO-ImportObjectBlender.html)
+インストールされていない場合は以下の手順で.fbxファイルに変換するか、インストール後に再インポートをおこなう必要がある。
+
 1. Unityにインポート済みの.blendファイルをダブルクリック。Blenderが起動する。
 2. File -> Export -> FBX(.fbx)を選択。出力先にUnityプロジェクトのAssets以下任意の場所を指定しExport FBXを実行。Unityプロジェクトに.fbxファイルが追加される。
 3. .fbxファイルをHierarchyウィンドウにドラッグ&ドロップ。
-※Blender導入後にインポートした場合は変換不要。
