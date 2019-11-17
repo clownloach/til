@@ -8,7 +8,7 @@
 
 埋め込み可能な地図画像を取得する。(例.https://maps.googleapis.com/maps/api/staticmap?key={APIキー}&center=37.62761,-122.42588&zoom=17&format=png&sensor=false&size=640x480&maptype=roadmap)
 
-### 仕様
+### パラメータ
 
 * center: マップの中心 (緯度,経度)
 * zoom: ズームレベル
@@ -16,11 +16,11 @@
 * key: APIキー
 * size: マップ画像の長方形の寸法
 * maptype: 構築するマップのタイプ
-  * roadmap Webサイトに表示される標準のロードマップ画像
-  * satellite 衛星画像
-  * hybrid 衛星画像とロードマップ画像の混在指定
-  * terrain 地形と植生を表示するレリーフマップ画像
-* sensor
+  * roadmap: Webサイトに表示される標準のロードマップ画像
+  * satellite: 衛星画像
+  * hybrid: 衛星画像とロードマップ画像の混在指定
+  * terrain: 地形と植生を表示するレリーフマップ画像
+* sensor: アプリケーションがセンサーを使用してユーザの位置を特定するかどうか (現在は不要)
 
 ### 料金
 
