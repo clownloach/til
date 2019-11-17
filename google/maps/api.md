@@ -1,6 +1,6 @@
 # Google Maps API
 
-地理的データを位置情報として提供する。
+地理的データを位置情報として提供する。使用するにはAPIキーとデジタル署名が必要。(1日あたり25,000リクエストまではAPIキーのみで利用可能)
 
 * Maps Statc API
 
@@ -12,3 +12,7 @@
 
 1. APIライブラリ -> Maps Static APIを選択。
 2. 有効にするをクリック。
+
+### 料金
+
+(https://developers.google.com/maps/documentation/maps-static/usage-and-billing?hl=ja)
