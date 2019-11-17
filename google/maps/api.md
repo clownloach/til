@@ -10,8 +10,10 @@
 
 ### APIパラメータ
 
+サンプル
 ```
-https://maps.googleapis.com/maps/api/staticmap?key={APIキー}&center=37.62761,-122.42588&zoom=17&format=png&size=640x480&maptype=roadmap
+https://maps.googleapis.com/maps/api/staticmap
+?key={APIキー}&center=37.62761,-122.42588&zoom=17&format=png&size=640x480&maptype=roadmap
 ```
 
 * center: マップの中心 (緯度,経度)
