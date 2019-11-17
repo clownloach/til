@@ -2,14 +2,7 @@
 
 地理的データを位置情報として提供する。
 
-* APIキー作成
 * Maps Statc API
-
-以下の作業はGoogle Cloud Platformのコンソール上でおこなう。(https://console.cloud.google.com)
-
-## APIキー作成
-
-1. APIとサービス -> 認証情報
 
 ## Maps Static API
 
@@ -17,4 +10,5 @@
 
 ### 導入
 
-1. APIとサービス -> ダッシュボード -> APIとサービスを有効化を選択。
+1. APIライブラリ -> Maps Static APIを選択。
+2. 有効にするをクリック。
