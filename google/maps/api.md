@@ -6,9 +6,11 @@
 
 ## Maps Static API
 
-埋め込み可能な地図画像を取得する。(例.https://maps.googleapis.com/maps/api/staticmap?key={APIキー}&center=37.62761,-122.42588&zoom=17&format=png&sensor=false&size=640x480&maptype=roadmap)
+埋め込み可能な地図画像を取得する。(https://developers.google.com/maps/documentation/maps-static/intro)
 
 ### APIパラメータ
+
+例.https://maps.googleapis.com/maps/api/staticmap?key={APIキー}&center=37.62761,-122.42588&zoom=17&format=png&size=640x480&maptype=roadmap
 
 * center: マップの中心 (緯度,経度)
 * zoom: ズームレベル
