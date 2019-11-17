@@ -22,10 +22,13 @@
   * terrain: 地形と植生を表示するレリーフマップ画像
 * sensor: アプリケーションがセンサーを使用してユーザの位置を特定するかどうか (現在は不要)
 
+### スタイルウィザード
+
+Googleマップのスタイルウィザードから抽出した描画スタイルのパラメータを使用し、独自のマップスタイルを設定可能。(https://mapstyle.withgoogle.com)
+
 ### 料金
 
-1ヶ月$200分の無料クレジットで最大100,000読み込み可能。
-(https://developers.google.com/maps/documentation/maps-static/usage-and-billing?hl=ja)
+1ヶ月$200分の無料クレジットで最大100,000読み込み可能。(https://developers.google.com/maps/documentation/maps-static/usage-and-billing?hl=ja)
 
 ### 制限
 
