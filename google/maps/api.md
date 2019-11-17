@@ -14,8 +14,8 @@
 * zoom: ズームレベル
 * format: 結果の画像形式 (gif,jpeg,png etc.)
 * key: APIキー
-* maptype: 構築するマップのタイプ
- * roadmap,satellite,hybrid,terrain
+- maptype: 構築するマップのタイプ
+ - roadmap,satellite,hybrid,terrain
 * sensor
 
 
