@@ -8,7 +8,7 @@
 
 埋め込み可能な地図画像を取得する。(例.https://maps.googleapis.com/maps/api/staticmap?key={APIキー}&center=37.62761,-122.42588&zoom=17&format=png&sensor=false&size=640x480&maptype=roadmap)
 
-### パラメータ
+### APIパラメータ
 
 * center: マップの中心 (緯度,経度)
 * zoom: ズームレベル
