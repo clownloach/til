@@ -13,5 +13,5 @@
 
 ### 導入
 
-1.Google Cloud Platformのコンソールにアクセスする。(https://console.cloud.google.com)
-2.APIとサービス -> APIとサービスを有効化を選択。
+1. Google Cloud Platformのコンソールにアクセスする。(https://console.cloud.google.com)
+2. APIとサービス -> APIとサービスを有効化を選択。
