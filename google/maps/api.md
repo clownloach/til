@@ -8,6 +8,17 @@
 
 埋め込み可能な地図画像を取得する。(例.https://maps.googleapis.com/maps/api/staticmap?key={APIキー}&center=37.62761,-122.42588&zoom=17&format=png&sensor=false&size=640x480&maptype=roadmap)
 
+### 仕様
+
+* center: マップの中心 (緯度,経度)
+* zoom: ズームレベル
+* format: 結果の画像形式 (gif,jpeg,png etc.)
+* key: APIキー
+* maptype: 構築するマップのタイプ
+** roadmap,satellite,hybrid,terrain
+* sensor
+
+
 ### 料金
 
 1ヶ月$200分の無料クレジットで最大100,000読み込み可能。
