@@ -2,7 +2,7 @@
 
 地理的データを位置情報として提供する。
 
-* Maps Statc API
+* [Maps Statc API](#maps-static-api)
 
 ## Maps Static API
 
@@ -10,6 +10,7 @@
 
 ### 料金
 
+1ヶ月$200分の無料クレジットで最大100,000読み込み可能。
 (https://developers.google.com/maps/documentation/maps-static/usage-and-billing?hl=ja)
 
 ### 制限
