@@ -1,10 +1,11 @@
 # Google Maps API
 
 地理的データを位置情報として提供する。
-設定作業はGoogle Cloud Platformのコンソール上でおこなう。(https://console.cloud.google.com)
 
 * APIキー作成
 * Maps Statc API
+
+以下の作業はGoogle Cloud Platformのコンソール上でおこなう。(https://console.cloud.google.com)
 
 ## APIキー作成
 
