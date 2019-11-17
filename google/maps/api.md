@@ -1,6 +1,6 @@
 # Google Maps API
 
-地理的データを位置情報として提供する。
+地理的データを位置情報として提供する。Styling Wizard: Google Maps APIsから抽出した描画スタイルのパラメータを使用し、独自のマップスタイルを設定可能。(https://mapstyle.withgoogle.com)
 
 * [Maps Statc API](#maps-static-api)
 
@@ -21,10 +21,6 @@
   * hybrid: 衛星画像とロードマップ画像の混在指定
   * terrain: 地形と植生を表示するレリーフマップ画像
 * sensor: アプリケーションがセンサーを使用してユーザの位置を特定するかどうか (現在は不要)
-
-### スタイルウィザード
-
-Googleマップのスタイルウィザードから抽出した描画スタイルのパラメータを使用し、独自のマップスタイルを設定可能。(https://mapstyle.withgoogle.com)
 
 ### 料金
 
