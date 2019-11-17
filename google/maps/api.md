@@ -16,12 +16,11 @@
 * key: APIキー
 * size: マップ画像の長方形の寸法
 * maptype: 構築するマップのタイプ
-  * roadmap
-  * satellite
-  * hybrid
-  * terrain
+  * roadmap Webサイトに表示される標準のロードマップ画像
+  * satellite 衛星画像
+  * hybrid 衛星画像とロードマップ画像の混在指定
+  * terrain 地形と植生を表示する物理的なレリーフマップ画像
 * sensor
-
 
 ### 料金
 
