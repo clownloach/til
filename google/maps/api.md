@@ -20,6 +20,7 @@ https://maps.googleapis.com/maps/api/staticmap
 * format: 結果の画像形式 (gif,jpeg,png etc.)
 * key: APIキー
 * size: マップ画像の長方形の寸法
+* scale: ピクセル解像度の倍数 (1,2,4)
 * maptype: 構築するマップのタイプ
   * roadmap: Webサイトに表示される標準のロードマップ画像
   * satellite: 衛星画像
