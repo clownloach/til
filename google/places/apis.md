@@ -8,9 +8,11 @@
 
 ロケーションに関する最新情報を取得する。(https://developers.google.com/places/web-service/intro)
 
-* Nearby Search requests: 指定したエリア内の場所を検索する。
+* [Nearby Search requests](#nearby-search-requests)
 
 ### Nearby Search requests
+
+指定したエリア内の場所を検索する。
 
 #### APIパラメータ
 
@@ -28,11 +30,11 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 
 1ヶ月$200分の無料クレジットで最大62,500読み込み可能。
 
-### 制限
+#### 制限
 
 1秒あたりの最大クエリ数(QPS): 100
 
-### 導入
+#### 導入
 
 1. APIライブラリ -> Places APIを選択。
 2. 有効にするをクリック。
