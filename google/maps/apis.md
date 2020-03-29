@@ -8,7 +8,7 @@
 
 埋め込み可能な地図画像を取得する。(https://developers.google.com/maps/documentation/maps-static/intro)
 
-### APIパラメータ
+#### APIパラメータ
 
 ```
 https://maps.googleapis.com/maps/api/staticmap
