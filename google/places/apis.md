@@ -23,3 +23,7 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 * key: APIキー
 * radius: 結果を返す領域の半径(m) (最大50,000m)
 * type: 結果を返すロケーションの種別 (https://developers.google.com/places/web-service/supported_types)
+
+#### 料金
+
+1ヶ月$200分の無料クレジットで最大62,500読み込み可能。(https://developers.google.com/places/web-service/usage-and-billing)
