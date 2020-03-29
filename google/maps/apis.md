@@ -38,7 +38,7 @@ https://maps.googleapis.com/maps/api/staticmap
 * 1日あたり25,000までのリクエストはAPIキーが必要。
 * 1日あたり25,000を超えるリクエストはAPIキーとデジタル署名が必要。
 
-#### 導入
+### 導入
 
 1. APIライブラリ -> Maps Static APIを選択。
 2. 有効にするをクリック。
