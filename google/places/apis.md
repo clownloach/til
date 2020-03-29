@@ -32,7 +32,7 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 
 ### 制限
 
-1秒あたりの最大クエリ数(QPS): 100
+* 1秒あたりの最大クエリ数(QPS): 100
 
 ### 導入
 
