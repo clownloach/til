@@ -6,7 +6,7 @@
 
 ## Places API
 
-ロケーションに関する最新情報を取得する。
+ロケーションに関する最新情報を取得する。(https://developers.google.com/places/web-service/intro)
 
 ### Nearby Search requests
 
