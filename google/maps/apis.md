@@ -30,7 +30,7 @@ https://maps.googleapis.com/maps/api/staticmap
 
 #### 料金
 
-1ヶ月$200分の無料クレジットで最大100,000読み込み可能。(https://developers.google.com/maps/documentation/maps-static/usage-and-billing?hl=ja)
+1ヶ月$200分の無料クレジットで最大100,000読み込み可能。(https://developers.google.com/maps/documentation/maps-static/usage-and-billing)
 
 #### 制限
 
