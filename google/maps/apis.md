@@ -8,7 +8,7 @@
 
 埋め込み可能な地図画像を取得する。(https://developers.google.com/maps/documentation/maps-static/intro)
 
-#### APIパラメータ
+### APIパラメータ
 
 ```
 https://maps.googleapis.com/maps/api/staticmap
@@ -28,11 +28,11 @@ https://maps.googleapis.com/maps/api/staticmap
   * terrain: 地形と植生を表示するレリーフマップ画像
 * sensor: アプリケーションがセンサーを使用してユーザの位置を特定するかどうか (現在は不要)
 
-#### 料金
+### 料金
 
 1ヶ月$200分の無料クレジットで最大100,000読み込み可能。(https://developers.google.com/maps/documentation/maps-static/usage-and-billing)
 
-#### 制限
+### 制限
 
 * 1秒あたりの最大クエリ数(QPS): 500
 * 1日あたり25,000までのリクエストはAPIキーが必要。
