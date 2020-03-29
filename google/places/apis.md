@@ -5,3 +5,5 @@
 * [Places API](#places-api)
 
 ## Places API
+
+ロケーションに関する最新情報を取得する。
