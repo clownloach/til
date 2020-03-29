@@ -8,12 +8,9 @@
 
 ロケーションに関する最新情報を取得する。(https://developers.google.com/places/web-service/intro)
 
-### Nearby Search requests
+### APIパラメータ
 
-指定したエリア内の場所を検索する。
-
-#### APIパラメータ
-
+Nearby Search requests: 指定したエリア内の場所を検索する。
 ```
 https://maps.googleapis.com/maps/api/place/nearbysearch/json
 ?location=-33.8670522,151.1957362&radius=500&type=food&key={APIキー}
