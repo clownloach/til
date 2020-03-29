@@ -12,7 +12,7 @@
 
 指定したエリア内の場所を検索する。
 
-### APIパラメータ
+#### APIパラメータ
 
 ```
 https://maps.googleapis.com/maps/api/place/nearbysearch/json
@@ -25,6 +25,8 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 * type: 結果を返すロケーションの種別 (https://developers.google.com/places/web-service/supported_types)
 
 ### 料金
+
+#### Nearby Search requests
 
 1ヶ月$200分の無料クレジットで最大62,500読み込み可能。(https://developers.google.com/places/web-service/usage-and-billing)
 
