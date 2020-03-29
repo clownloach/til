@@ -1,6 +1,6 @@
 # Google Maps API
 
-地理的データを位置情報に変換し、地図画像として提供する。Styling Wizard: Google Maps APIsから抽出した描画スタイルのパラメータを使用し、独自のマップスタイルを設定可能。(https://mapstyle.withgoogle.com)
+地理的データを地図情報として提供する。Styling Wizard: Google Maps APIsから抽出した描画スタイルのパラメータを使用し、独自のマップスタイルを設定可能。(https://mapstyle.withgoogle.com)
 
 * [Maps Statc API](#maps-static-api)
 
