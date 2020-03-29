@@ -21,5 +21,5 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 
 * loation: 検索するロケーション (緯度,経度)
 * key: APIキー
-* radius: 結果を返す領域の半径(m) (最大値は50,000m)
+* radius: 結果を返す領域の半径(m) (最大50,000m)
 * type: 結果を返すロケーションの種別 (https://developers.google.com/places/web-service/supported_types)
