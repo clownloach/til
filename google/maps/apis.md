@@ -31,7 +31,7 @@ https://maps.googleapis.com/maps/api/staticmap
 
 ### 料金
 
-2.00 USD per 1000。1ヶ月$200分の無料クレジット利用可能。
+1,000リクエスト当たり$2.00(USD)。1ヶ月$200(USD)分の無料クレジット利用可能。
 
 ### 制限
 
@@ -50,7 +50,7 @@ https://maps.googleapis.com/maps/api/staticmap
 
 ### APIパラメータ
 
-７.00 USD per 1000。1ヶ月$200分の無料クレジット利用可能。
+1,000リクエスト当たり$７.00(USD)。1ヶ月$200(USD)分の無料クレジット利用可能。
 
 ### 料金
 
