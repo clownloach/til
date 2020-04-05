@@ -28,7 +28,7 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 
 #### Nearby Search requests
 
-1ヶ月$200分の無料クレジットで最大62,500読み込み可能。
+1,000リクエスト当たり$32.00(USD)。1ヶ月$200(USD)分の無料クレジット利用可能。
 
 ### 制限
 
