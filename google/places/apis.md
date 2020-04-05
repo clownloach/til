@@ -47,11 +47,11 @@ place_idを使用してロケーションの詳細情報を取得する。
 ### APIパラメータ
 
 ```
-https://maps.googleapis.com/maps/api/place/details/json
-?place_id=ChIJN1t_tDeuEmsRUsoyG83frY4&key={APIキー}
+https://maps.googleapis.com/maps/api/place/details/json?
+place_id=ChIJN1t_tDeuEmsRUsoyG83frY4&key={APIキー}
 ```
 
-* place_id: Place Searchから返されたロケーション識別子
+* place_id: Place Searchから返されたロケーションの識別子
 * key: APIキー
 
 ### 料金
@@ -70,6 +70,15 @@ https://maps.googleapis.com/maps/api/place/details/json
 ## Place Photo Requests
 
 ### APIパラメータ
+
+```
+https://maps.googleapis.com/maps/api/place/photo?
+photoreference=CnRtAAAATLZNl354RwP_9UKbQ_5Psy40texXePv4oAlgP4qNEkdIrkyse7rPXYGd9D_Uj1rVsQdWT4oRz4QrYAJNpFX7rzqqMlZw2h2E2y5IKMUZ7ouD_SlcHxYq1yL4KbKUv3qtWgTK0A6QbGh87GB3sscrHRIQiG2RrmU_jF4tENr9wGS_YxoUSSDrYjWmrNfeEHSGSc3FyhNLlBU&maxwidth=800&key={APIキー}
+```
+
+* photoreference: 写真の識別子
+* maxheight/maxwidth: 写真の高さまたは幅
+* key: APIキー
 
 ### 料金
 
