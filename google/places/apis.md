@@ -49,3 +49,13 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 ### 制限
 
 ### 導入
+
+## Place Photo Requests
+
+### APIパラメータ
+
+### 料金
+
+### 制限
+
+### 導入
