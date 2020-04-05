@@ -42,13 +42,30 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 
 ## Place Details Requests
 
+place_idを使用してロケーションの詳細情報を取得する。
+
 ### APIパラメータ
+
+```
+https://maps.googleapis.com/maps/api/place/details/json
+?place_id=ChIJN1t_tDeuEmsRUsoyG83frY4&key={APIキー}
+```
+
+* place_id: Place Searchから返されたロケーション識別子
+* key: APIキー
 
 ### 料金
 
+1,000リクエスト当たり$17.00(USD)。1ヶ月$200(USD)分の無料クレジット利用可能。
+
 ### 制限
 
+* 1秒あたりの最大クエリ数(QPS): 100
+
 ### 導入
+
+1. APIライブラリ -> Places APIを選択。
+2. 有効にするをクリック。
 
 ## Place Photo Requests
 
@@ -56,6 +73,13 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 
 ### 料金
 
+1,000リクエスト当たり$7.00(USD)。1ヶ月$200(USD)分の無料クレジット利用可能。
+
 ### 制限
 
+* 1秒あたりの最大クエリ数(QPS): 100
+
 ### 導入
+
+1. APIライブラリ -> Places APIを選択。
+2. 有効にするをクリック。
