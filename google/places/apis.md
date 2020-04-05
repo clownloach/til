@@ -38,3 +38,13 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 
 1. APIライブラリ -> Places APIを選択。
 2. 有効にするをクリック。
+
+## Place Details Requests
+
+### APIパラメータ
+
+### 料金
+
+### 制限
+
+### 導入
