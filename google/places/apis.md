@@ -11,9 +11,12 @@
 
 ロケーションに関する最新情報を取得する。(https://developers.google.com/places/web-service/intro)
 
-## Nearby Search requests
-
-指定したエリア内の場所を検索する。
+* Place Search
+  * Nearby Search requests: 指定したエリア内の場所を検索する。
+* Place Details
+  * Place Details Requests: place_idを使用してロケーションの詳細情報を取得する。
+* Place Photos
+  * Place Photo Requests: Placesデータベースに保存されている写真コンテンツを取得する。
 
 ### APIパラメータ
 
