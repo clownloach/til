@@ -2,17 +2,13 @@
 
 地理的データをロケーション情報として提供する。
 
-* [Places API](#places-api)
+* [Places API Nearby Search requests](#places-api-nearby-search-requests)
 
-## Places API
+## Places API Nearby Search requests
 
-ロケーションに関する最新情報を取得する。(https://developers.google.com/places/web-service/intro)
-
-* Nearby Search requests: 指定したエリア内の場所を検索する。
+指定したエリア内のロケーションに関する最新情報を取得する。(https://developers.google.com/places/web-service/intro)
 
 ### APIパラメータ
-
-#### Nearby Search requests
 
 ```
 https://maps.googleapis.com/maps/api/place/nearbysearch/json
@@ -25,8 +21,6 @@ https://maps.googleapis.com/maps/api/place/nearbysearch/json
 * type: 結果を返すロケーションの種別 (https://developers.google.com/places/web-service/supported_types)
 
 ### 料金
-
-#### Nearby Search requests
 
 1,000リクエスト当たり$32.00(USD)。1ヶ月$200(USD)分の無料クレジット利用可能。
 
