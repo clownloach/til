@@ -20,7 +20,7 @@ https://maps.googleapis.com/maps/api/staticmap
 * zoom: ズームレベル
 * format: 結果の画像形式 (gif,jpeg,png etc.)
 * key: APIキー
-* size: マップ画像の長方形の寸法
+* size: マップ画像の寸法
 * scale: ピクセル解像度の倍数 (1,2,4)
 * maptype: 構築するマップのタイプ
   * roadmap: Webサイトに表示される標準のロードマップ画像
@@ -54,6 +54,11 @@ https://maps.googleapis.com/maps/api/staticmap
 https://maps.googleapis.com/maps/api/streetview
 ?location=37.62827,-122.4259&fov=80&heading=0&size=640x480&pitch=-4&key={APIキー}
 ```
+
+* location: 検索するロケーション (緯度,経度)
+* fov: 画像の視野角
+* heading: コンパスの向き
+* size: 出力画像の寸法
 
 ### 料金
 
