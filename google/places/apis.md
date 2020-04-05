@@ -2,9 +2,9 @@
 
 地理的データをロケーション情報として提供する。
 
-* [Places API Nearby Search requests](#places-api-nearby-search-requests)
+* [Places API/Nearby Search requests](#places-api-nearby-search-requests)
 
-## Places API Nearby Search requests
+## Places API/Nearby Search requests
 
 指定したエリア内のロケーションに関する最新情報を取得する。(https://developers.google.com/places/web-service/intro)
 
