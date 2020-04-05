@@ -69,6 +69,8 @@ place_id=ChIJN1t_tDeuEmsRUsoyG83frY4&key={APIキー}
 
 ## Place Photo Requests
 
+Placesデータベースに保存されている写真コンテンツを取得する。
+
 ### APIパラメータ
 
 ```
