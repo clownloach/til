@@ -3,9 +3,11 @@
 地理的データをロケーション情報として提供する。
 
 * [Places API](#places-api)
-  * test
+  * Place Search
     * [Nearby Search requests](#nearby-search-requests)
+  * Place Details
     * [Place Details Requests](#place-details-requests)
+  * Place Photo
     * [Place Photo Requests](#place-photo-requests)
 
 ## Places API
