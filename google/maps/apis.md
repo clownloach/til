@@ -50,6 +50,11 @@ https://maps.googleapis.com/maps/api/staticmap
 
 ### APIパラメータ
 
+```
+https://maps.googleapis.com/maps/api/streetview
+?location=37.62827,-122.4259&fov=80&heading=0&size=640x480&pitch=-4&key={APIキー}
+```
+
 ### 料金
 
 1,000リクエスト当たり$７.00(USD)。1ヶ月$200(USD)分の無料クレジット利用可能。
