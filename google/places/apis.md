@@ -7,9 +7,11 @@
 
 ## Places API
 
+ロケーションに関する最新情報を取得する。(https://developers.google.com/places/web-service/intro)
+
 ## Nearby Search requests
 
-指定したエリア内のロケーションに関する最新情報を取得する。(https://developers.google.com/places/web-service/intro)
+指定したエリア内の場所を検索する。
 
 ### APIパラメータ
 
