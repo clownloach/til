@@ -3,7 +3,7 @@
 地理的データをロケーション情報として提供する。
 
 * [Places API](#places-api)
-** [Nearby Search requests](#nearby-search-requests)
+  * [Nearby Search requests](#nearby-search-requests)
 
 ## Places API
 
