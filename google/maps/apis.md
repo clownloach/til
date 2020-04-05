@@ -3,6 +3,7 @@
 地理的データを地図情報として提供する。Styling Wizard: Google Maps APIsから抽出した描画スタイルのパラメータを使用し、独自のマップスタイルを設定可能。(https://mapstyle.withgoogle.com)
 
 * [Maps Statc API](#maps-static-api)
+* [Street View Static API](#street-view-static-api)
 
 ## Maps Static API
 
@@ -42,3 +43,15 @@ https://maps.googleapis.com/maps/api/staticmap
 
 1. APIライブラリ -> Maps Static APIを選択。
 2. 有効にするをクリック。
+
+## Street View Static API
+
+360度のパノラマ画像を取得する。(https://developers.google.com/maps/documentation/streetview/intro)
+
+### APIパラメータ
+
+### 料金
+
+### 制限
+
+### 導入
