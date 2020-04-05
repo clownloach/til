@@ -59,6 +59,8 @@ https://maps.googleapis.com/maps/api/streetview
 * fov: 画像の視野角
 * heading: コンパスの向き
 * size: 出力画像の寸法
+* pitch: ストリートビュー撮影車に対する上向きまたは下向きの角度
+* key: APIキー
 
 ### 料金
 
