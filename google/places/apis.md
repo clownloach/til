@@ -4,6 +4,7 @@
 
 * [Places API](#places-api)
   * [Nearby Search requests](#nearby-search-requests)
+  * [Place Details Requests](#place-details-requests)
 
 ## Places API
 
