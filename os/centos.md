@@ -25,8 +25,8 @@ $ sudo rm -rf git-2.9.5.tar.gz
 $ cd git-2.9.5/
 
 # make コマンドでインストール
-$sudo make prefix=/usr/local all
-$sudo make prefix=/usr/local install
+$ sudo make prefix=/usr/local all
+$ sudo make prefix=/usr/local install
 ```
 
 ## Node.js
