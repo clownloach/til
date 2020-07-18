@@ -1,18 +1,23 @@
 # CentOS
 
-## 事前準備
+## Git
 
+依存関係のあるライブラリをインストール
+```
+# sudo yum -y install gcc curl-devel expat-devel gettext-devel openssl-devel zlib-devel perl-ExtUtils-MakeMaker autoconf
+```
+wget
 ```
 # sudo yum install wget
 ```
 
 ## Node.js
 
-### リポジトリ作成
+リポジトリ作成
 ```
 # curl -sL https://rpm.nodesource.com/setup_14.x | bash -
 ```
-### インストール
+node.js
 ```
 # yum install nodejs
 ```
