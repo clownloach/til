@@ -9,7 +9,7 @@ $ sudo yum -y install gcc curl-devel expat-devel gettext-devel openssl-devel zli
 # wget
 $ sudo yum install wget
 
-# インストールに適切な場所に移動
+# インストールするディレクトリに移動
 $ cd /usr/local/src/
 
 # サイトから Git の圧縮ファイルをダウンロード
