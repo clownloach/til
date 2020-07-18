@@ -1,6 +1,6 @@
 # CentOS
 
-## Node.jsインストール
+## Node.js
 
 ### リポジトリ作成
 ```
