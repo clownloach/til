@@ -13,16 +13,16 @@ $ sudo yum install wget
 $ cd /usr/local/src/
 
 # サイトから Git の圧縮ファイルをダウンロード
-$ wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.9.5.tar.gz
+$ wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.24.3.tar.gz
 
 # ファイルを解凍
-$ sudo tar xzvf git-2.9.5.tar.gz
+$ sudo tar xzvf git-2.24.3.tar.gz
 
 # 圧縮ファイルを削除
-$ sudo rm -rf git-2.9.5.tar.gz
+$ sudo rm -rf git-2.24.3.tar.gz
 
 # 解凍した Git ディレクトリに移動
-$ cd git-2.9.5/
+$ cd git-2.24.3/
 
 # make コマンドでインストール
 $ sudo make prefix=/usr/local all
