@@ -10,3 +10,9 @@
 ```
 # yum install nodejs
 ```
+
+## wget
+
+```
+# sudo yum install wget
+```
