@@ -1,5 +1,11 @@
 # CentOS
 
+## 事前準備
+
+```
+# sudo yum install wget
+```
+
 ## Node.js
 
 ### リポジトリ作成
@@ -9,10 +15,4 @@
 ### インストール
 ```
 # yum install nodejs
-```
-
-## wget
-
-```
-# sudo yum install wget
 ```
